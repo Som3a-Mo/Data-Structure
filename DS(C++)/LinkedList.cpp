@@ -139,6 +139,17 @@ public:
             }
         }
     }
+
+    void reverse(){
+        Node*prev=NULL,*cur=head,*next=head->next;
+        while(next!=NULL){
+            next=cur->next;
+            cur->next=prev;
+            prev=cur;
+            cur=next;
+        }
+        head=prev;
+    }
     void print(){
         if(empty()){
             emptyMessage();
@@ -164,4 +175,8 @@ int main() {
     l.removeLast();//[5,0]
     l.remove(0);//[5]
     l.print();// [5]
+    l.addLast(9);//[5,9]
+    l.addLast(3);//[5,9,3]
+    l.reverse();//[3,9,5]
+    l.print();//[3,9,5]
 }
