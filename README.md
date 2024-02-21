@@ -29,4 +29,4 @@ This Repo is built to cover most important topic of data structure & algorithm. 
 
 ## At the end
 
-All this repo write by ([Esmail mohamed](https://github.com/Som3a-Mo)),It's based on some courses & references.
+All this repo write by [Esmail mohamed](https://github.com/Som3a-Mo),It's based on some courses & references.
