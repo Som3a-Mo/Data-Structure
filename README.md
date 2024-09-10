@@ -12,7 +12,7 @@ This Repo is built to cover most important topic of data structure & algorithm. 
 
 1. You should know at least about Class & Object.
 2. You must hava a good knowledge in java.
-3. I suggest you to know about C++(Optional).
+3. You must hava a good knowledge in C++.
 
 ## How use this Repo
 
