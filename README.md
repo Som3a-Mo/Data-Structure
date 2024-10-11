@@ -5,7 +5,6 @@
 This Repo is built to cover most important topic of data structure & algorithm. Every part of this Repo is sample implementation which show the following :
 
 * Most data structure: Stack, Queue, Array list, Linked list and so on by C++.
-* Most data structure: Stack, Queue, Array list, Linked list and so on by java.
 * Most algorithm: Sorting & Searching algorithm by java.
 
 ## Requirements
